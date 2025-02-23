@@ -4,4 +4,5 @@ This thesis outlines the effects of quantum computing on the domains of cryptogr
 <br/>
 <br/>
 
-![Post-Quantum Migration Strategy](https://github.com/user-attachments/assets/24b31a66-859b-468b-97d3-0626acfdee57)
+
+![391533341-24b31a66-859b-468b-97d3-0626acfdee57](https://github.com/user-attachments/assets/5b352478-690d-4e10-a5c3-c7ac940c72ed)
